@@ -1,0 +1,13 @@
+server:
+  port: 9202
+spring:
+  application:
+    name: zx-cloud-eureka
+eureka:
+  client:
+    service-url:
+      defaultZone: http://LagouCloudEurekaServerA:9200/eureka
+    fetch-registry: false
+    register-with-eureka: false
+  instance:
+    hostname: localhost
