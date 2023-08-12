@@ -1,4 +1,4 @@
 mysql:
-  name:zhangsan
+  name: zhangsan
 get:
-  age:12
+  age: 12
