@@ -1,0 +1,4 @@
+mysql:
+  name:zhangsan
+get:
+  age:12
